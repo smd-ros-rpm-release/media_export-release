@@ -17,5 +17,5 @@ tracks:
     release_tag: :{version}
     ros_distro: hydro
     vcs_type: git
-    vcs_uri: git@github.com:dgossow/media_export.git
+    vcs_uri: https://github.com/ros/media_export.git
     version: :{auto}
