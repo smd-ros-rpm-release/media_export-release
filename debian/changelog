@@ -1,0 +1,16 @@
+ros-indigo-media-export (0.2.0-0trusty) trusty; urgency=high
+
+  * set myself (william) as maintainer
+  * Contributors: William Woodall
+
+ -- William Woodall <william@osrfoundation.org>  Mon, 24 Mar 2014 07:00:00 -0000
+
+ros-indigo-media-export (0.1.0-0trusty) trusty; urgency=high
+
+  * fixed catkin_project() -> catkin_package()
+  * initial commit
+  * Contributors: Dave Hershberger
+
+ -- Dave Hershberger <hersh@willowgarage.com>  Thu, 15 Aug 2013 07:00:00 -0000
+
+
