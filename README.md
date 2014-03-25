@@ -1,3 +1,22 @@
+## media_export (indigo) - 0.1.0-1
+
+User `william@dosa.local` released the packages in the `media_export` repository into the `indigo` distro by running `/usr/local/bin/bloom-release -r indigo -t indigo media_export` on `Tue, 25 Mar 2014 03:49:13 -0000`
+
+The `media_export` package was released.
+
+Version of package(s) in repository `media_export`:
+- rosdistro version: `0.1.0-0`
+- old version: `0.1.0-0`
+- new version: `0.1.0-1`
+
+Versions of tools used:
+- bloom version: `0.5.2`
+- catkin_pkg version: `0.1.26`
+- rosdep version: `0.10.25`
+- rosdistro version: `0.3.4`
+- vcstools version: `0.1.33`
+
+
 ## media_export (indigo) - 0.1.0-0
 
 User `william@dosa` released the packages in the `media_export` repository into the `indigo` distro by running `/usr/local/bin/bloom-release -r indigo -t indigo -n media_export` on `Tue, 25 Feb 2014 00:41:40 -0000`
