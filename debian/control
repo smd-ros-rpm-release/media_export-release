@@ -1,0 +1,12 @@
+Source: ros-indigo-media-export
+Section: misc
+Priority: extra
+Maintainer: Dave Hershberger <hersh@willowgarage.com>
+Build-Depends: debhelper (>= 7.0.50~), ros-indigo-catkin
+Homepage: http://ros.org/wiki/media_export
+Standards-Version: 3.9.2
+
+Package: ros-indigo-media-export
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, 
+Description: Placeholder package enabling generic export of media paths.
